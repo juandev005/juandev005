@@ -1,4 +1,4 @@
-# <center><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpzMmkwczMzN3Qwb2M4NjJmeDZ6bjN3dm15Yzh0a3Y4NmZ4eDZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEWaYdvMwTIduesqGe/giphy.gif" width= "250" height="200"/></center> 
+<center><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpzMmkwczMzN3Qwb2M4NjJmeDZ6bjN3dm15Yzh0a3Y4NmZ4eDZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEWaYdvMwTIduesqGe/giphy.gif" width= "250" height="200"/></center> 
 
 # Hola, soy Juan Camilo Bermúdez Murillo 👋
 
