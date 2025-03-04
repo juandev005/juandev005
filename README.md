@@ -11,7 +11,7 @@ Soy un desarrollador web y analista de datos apasionado por crear soluciones tec
 
 - **Desarrollo Backend**: Construyo aplicaciones Spring Boot y Java.
 - **Análisis de Datos**: Utilizo Python para transformar datos en insights valiosos.
-- **Desarrollo Web**: Creo aplicaciones web interactivas con HTML, CSS y Next.js.
+- **Desarrollo Frontend**: Creo aplicaciones web interactivas con HTML, CSS y React.js.
 
 <!--## 🌟 Proyectos Destacados-->
 
