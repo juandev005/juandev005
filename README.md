@@ -1,5 +1,3 @@
-<center><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXpzMmkwczMzN3Qwb2M4NjJmeDZ6bjN3dm15Yzh0a3Y4NmZ4eDZzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kEWaYdvMwTIduesqGe/giphy.gif" width= "250" height="200"/></center> 
-
 # Hola, soy Juan Camilo Bermúdez Murillo 👋
 
 Soy un desarrollador web y analista de datos apasionado por crear soluciones tecnológicas innovadoras. Me especializo en el desarrollo backend con Spring Boot, y tengo experiencia en análisis de datos, Python, Java, HTML, CSS, y TypeScript.
