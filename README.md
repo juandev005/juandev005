@@ -1,6 +1,6 @@
 # Hola, soy Juan Camilo Bermúdez Murillo 👋
 
-Soy un **QA Automation Engineer** con más de 2 años de experiencia en automatización funcional, de rendimiento y seguridad para aplicaciones web y APIs REST. Me especializo en **Playwright + Python** y **Selenium + Java**, con dominio de **k6/Grafana** para performance testing, **OWASP ZAP** y **Burp Suite** para security testing. Background en desarrollo backend (Java, Spring Boot) que aporta comprensión integral del ciclo de vida del software en entornos ágiles.
+Soy un **QA Automation Engineer** con más de 2 años de experiencia en automatización funcional, de rendimiento y seguridad para aplicaciones web y APIs REST. Me especializo en **Playwright + Python**, **Selenium + Python** y **Karate+Java** con dominio de **k6/Grafana** para performance testing, **OWASP ZAP** y **Burp Suite** para security testing. Background en desarrollo backend (Java, Spring Boot) que aporta comprensión integral del ciclo de vida del software en entornos ágiles.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-camilo-bermudez-murillo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:camilobm05@gmail.com)
